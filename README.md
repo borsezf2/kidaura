@@ -2,15 +2,15 @@
 
 A new Flutter application.
 
-## Getting Started
+SCREEN 1
 
-This project is a starting point for a Flutter application.
+- Pageview displaying infomartion of kidaura which can be found on the website
+- The images used are in svg format are netwrok images
+- visited / current / not visited page will have different page indicators
+- After the last pageview screen , pressing NEXT will navigate to SCREEN 2
 
-A few resources to get you started if this is your first Flutter project:
+SCREEN 2
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+- flags are in svg format and are netwrok images
+- language and borders are returned as a list
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
